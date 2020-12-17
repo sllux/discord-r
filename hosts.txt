@@ -73,4 +73,4 @@ play.uifserver.net:7776=uif
 77.83.201.227:7777=19rp
 server.nineteen-roleplay.com=19rp
 198.27.76.170:7777=unnamed_1_
-158.69.141.9:7777=stt_1_
+158.69.141.9:7777=stt
